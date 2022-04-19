@@ -1,5 +1,5 @@
 Hola, esta es la historia de Daniel Hernandez 
 
-Tengo 21 años 
+Tengo 21 años y naci en mexico
 
-Y estoy aprendiendo git
+Y estoy aprendiendo git.
