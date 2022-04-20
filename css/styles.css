@@ -9,12 +9,30 @@
 
 .container {
     width: 70%;
-    padding: 1rem;
     text-align: left;
     border: 1px solid #999;
     margin: 0 auto;
 }
 
+.post {
+    padding: 1rem;
+}
+
 h1 {
     font-size: 20px;
+}
+
+.cabecera {
+    padding: 1rem;
+    background-color: #48e;
+    color: #fff;
+    text-align: left;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+.tagline {
+    color: #fff;
+    font-weight: normal;
+    padding-left: 2rem;
 }
